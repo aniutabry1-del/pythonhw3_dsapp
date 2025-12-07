@@ -1,0 +1,23 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
