@@ -262,7 +262,7 @@ This app predicts whether a person's income exceeds $50K based on census data.
 - Marital status, Relationship
 - And more...
 
-**Author:** Брылева  
+**Author:** Аня Брылева  
 **Course:** Python for Data Analysis (HSE)
 """)
 
